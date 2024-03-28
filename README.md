@@ -44,7 +44,9 @@ Exploratory Data Analysis (EDA) is an essential step in the data analysis proces
     - Formulate hypotheses about the data based on insights gained during EDA.
     - Conduct statistical tests to validate or refute these hypotheses.
 
-11. **Documentation and Reporting:**
-    - Document your findings, insights, and decisions made during EDA.
+11. **Reporting:**
     - Create visualizations and summary tables for reporting purposes.
+      
+12. **Documentation**
+  - Document your findings, insights, and decisions made during EDA.
 
