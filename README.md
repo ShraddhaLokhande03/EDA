@@ -4,6 +4,7 @@ Exploratory Data Analysis (EDA) is an essential step in the data analysis proces
 
 1. **Loading the Data:**
    - Load your dataset into your preferred data analysis environment (e.g., Python with libraries like Pandas).
+   - The foremost step in EDA
 
 2. **Understanding the Structure of the Data:**
    - Explore the dimensions of the dataset (number of rows and columns).
