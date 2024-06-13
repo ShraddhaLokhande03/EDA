@@ -1,4 +1,4 @@
-EXPLORATORY DATA ANALYSIS USING VARIOUS DATA SETS
+EXPLORATORY DATA ANALYSIS
 
 Exploratory Data Analysis (EDA) is an essential step in the data analysis process, where you examine and understand the characteristics of your dataset. EDA helps you gain insights into your data, identify patterns, detect anomalies, and formulate hypotheses before performing more advanced modeling or analysis. Here's a general overview of the steps involved in EDA:
 
