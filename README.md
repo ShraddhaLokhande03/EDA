@@ -7,7 +7,7 @@ Exploratory Data Analysis (EDA) is an essential step in the data analysis proces
    - The foremost step in EDA
 
 2. **Understanding the Structure of the Data:**
-   - Explore the dimensions of the dataset (number of rows and columns).
+   - Explore the dimensions of the dataset.
    - Check the data types of each column (numeric, categorical, datetime, etc.).
    - Investigate any missing values and decide on strategies for handling them (imputation, removal, etc.).
 
