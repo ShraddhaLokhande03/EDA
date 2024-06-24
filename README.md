@@ -23,7 +23,7 @@ Exploratory Data Analysis (EDA) is an essential step in the data analysis proces
 
 5. **Handling Outliers:**
    - Identify outliers using visualizations or statistical methods.
-   - Decide whether outliers are errors or valid data points and handle them accordingly (removal, transformation, etc.).
+   - Decide whether outliers are errors or valid data points and handle them accordingly.
 
 6. **Feature Engineering:**
    - Generate new features or transform existing ones to better represent the underlying data.
